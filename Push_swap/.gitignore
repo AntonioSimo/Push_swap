@@ -1,0 +1,5 @@
+.DS_STORE
+push_swap
+libft.h.gch
+*.o
+libft.a
